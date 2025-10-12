@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hjweaver4.github.io/haley.weaver//sitemap.xml
+Sitemap: https://hjweaver4.github.io/haley.weaver//haley.weaver//sitemap.xml
