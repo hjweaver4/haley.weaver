@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Boston University</a>. Postdoctoral Research Associate in the Bilingual Learning Lab.  
+subtitle: <a href="https://www.bu.edu/">Boston University</a>. Postdoctoral Research Associate in the Bilingual Learning Lab.  
 profile:
   align: right
   image: prof_pic.tiff
@@ -12,8 +12,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-I study how infants' and young children's early experiences give rise to individual differences in word learning. I use caregiver report and eye tracking methods to measure different aspects of word knowledge including semantic knowledge and lexical processing efficiency.
+I am a postdoctoral research associate in the <a href="https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/">Department of Speech, Language & Hearing Sciences</a> at Boston University, working in the <a href="https://sites.bu.edu/crespolab/">Bilingual Learning Lab</a> with Kimberly Crespo, PhD CCC-SLP. I completed my PhD in psychology at the University of Wisconsin–Madison with Jenny Saffran. 
 
-I am a postdoctoral research associate in the Department of Speech, Language & Hearing Sciences (https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/) at Boston University, working in the Bilingual Learning Lab (https://sites.bu.edu/crespolab/) with Kimberly Crespo, PhD CCC-SLP. I completed my PhD in psychology at the University of Wisconsin–Madison with Jenny Saffran.
+My work focuses on individual differences in early word meanings. For example, I ask: when we consider a child’s knowledge of a particular word, what do they actually know, and how might they have learned it? Our earliest experiences with language and the world—such as whether we ate mashed or whole bananas—shape our understanding of words. I aim to understand whether and how these early experiences give rise to differences in word meanings. To do so, I use mixed-method designs: I explore children’s naturalistic word-learning environments through caregiver-report surveys, and I examine children’s word knowledge using eye-tracking experiments with both familiar and novel words. To learn more, check out my publications page.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
