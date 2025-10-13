@@ -2,39 +2,9 @@ pdf_embeded:
   title: "Curriculum Vitae"
   file: "Weaver_CV.pdf"
   html: |
-    <style>
-      .pdf-container {
-        position: relative;
-        width: 100%;
-        padding-top: 130%; /* aspect ratio (adjust for height vs width) */
-      }
-      .pdf-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        border: none;
-      }
-
-      /* Make it taller on larger screens */
-      @media (min-width: 768px) {
-        .pdf-container {
-          padding-top: 80%;
-        }
-      }
-
-      @media (min-width: 1024px) {
-        .pdf-container {
-          padding-top: 60%;
-        }
-      }
-    </style>
-
-    <div class="pdf-container">
-      <iframe
-        src="documents/example.pdf"
-        title="PDF Viewer"
-        allowfullscreen
-      ></iframe>
-    </div>
+    <iframe
+      src="documents/example.pdf"
+      width="100%"
+      height="600px"
+      style="border:none;"
+    ></iframe>
