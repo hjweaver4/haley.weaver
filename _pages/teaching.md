@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
+<div class="teaching">
+
 <h2 class="year">{{2024}}</h2>
 
 <h2> Studying Infant Development </h2>
@@ -15,6 +17,8 @@ nav_order: 6
 <br>
 
 <a href="https://rpomper.github.io/assets/pdf/PSYCH601_Syllabus.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
+
+<h2 class="year">{{2022}}</h2>
 
 <h2> Cognitive Development </h2>
 
