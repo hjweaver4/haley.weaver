@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.bu.edu/">Boston University</a>. Postdoctoral Research Associate in the Bilingual Learning Lab.  
+subtitle: <a href="https://www.bu.edu/">Boston University</a>.
 profile:
   align: left
   image: /assets/img/prof_pic.tiff
