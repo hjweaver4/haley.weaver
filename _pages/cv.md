@@ -9,3 +9,6 @@ description:
 toc:
   sidebar: left
 ---
+
+<embed src="assets/pdf/Weaver_CV.pdf" width="500" height="375" 
+ type="application/pdf">
