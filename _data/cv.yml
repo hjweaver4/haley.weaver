@@ -1,4 +1,4 @@
-- title: Curriculum Vitae
-  type: map
-  contents:
-    - title: <a href="https://hjweaver4.github.io/haley.weaver/assets/pdf/Weaver_CV.pdf">CV</a>
+{
+  "url": "assets/pdf/Weaver_CV.pdf",
+  "html": "<iframe src='assets/pdf/Weaver_CV.pdf' width='100%' height='600px'></iframe>"
+}
