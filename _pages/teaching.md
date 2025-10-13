@@ -6,7 +6,18 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
+<h2 class="year">{{2024}}</h2>
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h2> Studying Infant Development </h2>
 
-Organize your courses by years, topics, or universities, however you like!
+<p> Instructor for a discussion-based advanced level course (senior capstone). Students were introduced to methodological appoaches appropriate for studying infant populations with a focus on how methodological limitations intersect with broader issues in psychological science such as replication failures and diversification of participant samples. 
+
+<br>
+
+<a href="https://rpomper.github.io/assets/pdf/PSYCH601_Syllabus.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
+
+<h2> Cognitive Development </h2>
+
+<p> Teaching assistant for a lecture-based course with discussion sections. The class focused on theories of cognitive development including Piagetian, Sociocultural, Dynamical Systems, Information Processing, and Connectionist approaches. 
+
+<br>
