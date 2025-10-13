@@ -10,6 +10,37 @@ toc:
   sidebar: left
 ---
 
-<object width="100\%" height="600" type="application/pdf" data="/Weaver_CV.pdf">
-    <p>If my CV fails to load, please use the button to the right to download a copy.</p>
-</object>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive PDF Embed</title>
+  <style>
+    .pdf-container {
+      position: relative;
+      width: 100\%;
+      padding-top: 141.42\%; /* 8.5x11 ratio (height/width * 100\%) */
+    }
+    .pdf-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100\%;
+      height: 100\%;
+      border: none;
+    }
+    @media (min-width: 768px) {
+      .pdf-container {
+        padding-top: 75\%; /* Less tall on larger screens */
+      }
+    }
+  </style>
+</head>
+<body>
+  <h2>View PDF</h2>
+  <div class="pdf-container">
+    <iframe src="Weaver_CV.pdf" type="application/pdf"></iframe>
+  </div>
+</body>
+</html>
