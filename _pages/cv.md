@@ -10,5 +10,6 @@ toc:
   sidebar: left
 ---
 
-<embed src="assets/pdf/Weaver_CV.pdf" width="500" height="375" 
- type="application/pdf">
+<object width="100\%" height="600" type="application/pdf" data="/Weaver_CV.pdf">
+    <p>If my CV fails to load, please use the button to the right to download a copy.</p>
+</object>
