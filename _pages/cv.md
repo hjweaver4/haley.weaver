@@ -20,7 +20,7 @@ toc:
 </div>
 
 <p style="text-align: center; margin-top: 1em;">
-  <a href="{{ '/assets/files/example.pdf' | relative_url }}" download class="btn">
+  <a href="{{ '/assets/pdf/Weaver_CV.pdf' | relative_url }}" download class="btn">
     📄 Download PDF
   </a>
 </p>
