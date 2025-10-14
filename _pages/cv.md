@@ -11,8 +11,8 @@ toc:
 ---
 # curriculum vitae
 
-<div style="position: relative">
- <embed src="/assets/pdf/Weaver_CV.pdf" width="100%" height="600px" type="application/pdf">
+<div>
+ <embed src="https://github.com/hjweaver4/haley.weaver/blob/3b88564f158cef3fb03e090e73739c645805efa1/assets/pdf/Weaver_CV.pdf" type="application/pdf">
 </div>
 
 <p style="text-align: center; margin-top: 1em;">
