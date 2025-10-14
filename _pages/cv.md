@@ -11,7 +11,7 @@ toc:
 ---
 # curriculum vitae
 
-<div style="position: relative; padding-bottom: 120\%; height: 0; overflow: hidden; border: 1px solid #ddd; border-radius: 8px;">
+<div style="position: relative; padding-bottom: 120\%; height: 600; overflow: hidden; border: 1px solid #ddd; border-radius: 8px;">
  <embed src="/assets/pdf/Weaver_CV.pdf" width="100\%" height="600px" type="application/pdf">
 </div>
 
