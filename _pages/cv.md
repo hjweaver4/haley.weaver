@@ -9,14 +9,10 @@ description:
 toc:
   sidebar: left
 ---
-# My PDF Document
+# curriculum vitae
 
 <div style="position: relative; padding-bottom: 120\%; height: 0; overflow: hidden; border: 1px solid #ddd; border-radius: 8px;">
-  <iframe 
-    src="{{ '/assets/pdf/Weaver_CV.pdf' | relative_url }}" 
-    style="position: absolute; top: 0; left: 0; width: 100\%; height: 100\%;" 
-    frameborder="0">
-  </iframe>
+ <embed src="/assets/pdf/Weaver_CV.pdf" width="100\%" height="600px" type="application/pdf">
 </div>
 
 <p style="text-align: center; margin-top: 1em;">
