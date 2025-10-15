@@ -12,7 +12,7 @@ toc:
 # curriculum vitae
 
 <div>
- <embed src="https://github.com/hjweaver4/haley.weaver/blob/3b88564f158cef3fb03e090e73739c645805efa1/assets/pdf/Weaver_CV.pdf" type="application/pdf">
+ <a hred="/assets/pdf/Weaver_CV.pdf" type="application/pdf" target="_blank">
 </div>
 
 <p style="text-align: center; margin-top: 1em;">
