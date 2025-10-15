@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
@@ -10,11 +10,6 @@ toc:
   sidebar: left
 ---
 # curriculum vitae
-
-<div>
- <a href="/assets/pdf/Weaver_CV.pdf" type="application/pdf" target="_blank">
-</div>
-
 <p style="text-align: center; margin-top: 1em;">
   <a href="{{ '/assets/pdf/Weaver_CV.pdf' | relative_url }}" download class="btn">
     📄 Download PDF
