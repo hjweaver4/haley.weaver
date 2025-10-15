@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
@@ -11,3 +11,4 @@ toc:
 ---
 # curriculum vitae
 
+<a href="path/to/yourfile.pdf" target="_blank">Check out my CV here.</a>
