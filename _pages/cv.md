@@ -12,7 +12,7 @@ toc:
 # curriculum vitae
 
 <div>
- <a hred="/assets/pdf/Weaver_CV.pdf" type="application/pdf" target="_blank">
+ <a href="/assets/pdf/Weaver_CV.pdf" type="application/pdf" target="_blank">
 </div>
 
 <p style="text-align: center; margin-top: 1em;">
