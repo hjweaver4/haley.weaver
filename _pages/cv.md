@@ -11,4 +11,4 @@ toc:
 ---
 # curriculum vitae
 
-<a href="/assets/pdf/Weaver_CV.pdf" target="_blank">Check out my CV here.</a>
+<a href="/assets/pdf/Weaver_CV.pdf">Check out my CV here.</a>
