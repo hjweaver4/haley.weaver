@@ -16,7 +16,7 @@ nav_order: 6
 
 <br>
 
-<a href="https://rpomper.github.io/assets/pdf/PSYCH601_Syllabus.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
+<a href="https://github.com/hjweaver4/haley.weaver/assets/pdf/PSYCH601_Syllabus.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
 
 <h2 class="year">{{2022}}</h2>
 
