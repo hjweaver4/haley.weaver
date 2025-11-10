@@ -11,4 +11,4 @@ toc:
 ---
 # curriculum vitae
 
-<a href="https://github.com/hjweaver4/haley.weaver/raw/main/assets/pdf/Weaver_CV.pdf" target="_blank" rel="noopener">Check out my CV here.</a>
+<a href="https://github.com/hjweaver4/haley.weaver/raw/main/assets/pdf/Weaver_CV.pdf" target="_blank" rel="noopener">Download my CV.</a>
