@@ -7,28 +7,28 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/haley.weaver/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "publications by year in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/haley.weaver/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/haley.weaver/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/haley.weaver/teaching/";
+            window.location.href = "/teaching/";
           },
         },{
         id: 'social-email',
